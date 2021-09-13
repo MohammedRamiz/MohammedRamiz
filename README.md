@@ -2,7 +2,7 @@ Hello, My Name Is Mohammedramiz Nice To Have You Here
 
 - :raised_hand: Loading Content.......
 
-[![MohammedRamiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRamiz)](https://github.com/anuraghazra/github-readme-stats)
+[![MohammedRamiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRamiz)](https://github.com/MohammedRamiz)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRamiz&theme=vue&layout=compact)
 
 
